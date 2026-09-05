@@ -1,5 +1,9 @@
 # Garissa Solar — 10 MW Project Finance Model (Kenya)
 
+**Need a live solar or BESS model built, reviewed or stress-tested?**  
+See Felix Keuya's renewable-energy model review service: https://felixkeuya.com/services/solar-bess-financial-modelling.html  
+Check the likely scope, fee band and turnaround first: https://felixkeuya.com/project-fit.html
+
 A lender-style project finance model for a 10 MW solar PV plant in Garissa, Kenya.
 It links technical assumptions (yield, degradation, availability) to the numbers a
 credit committee actually looks at: **equity IRR, DSCR, LLCR, LCOE and payback** —
