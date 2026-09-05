@@ -59,6 +59,14 @@ Scenario definitions live in [`model/assumptions.py`](model/assumptions.py) —
 downside = P90 yield, $0.10 tariff, +15% CAPEX, +150bps debt; upside = strong
 yield, −8% CAPEX, DFI-priced debt.
 
+## Need a project-specific model review?
+
+This repository is a public, simplified model. For a live solar, BESS or private-power project, Felix Keuya provides fixed-scope financial model review, debt-sizing and downside analysis for developers, investors and advisers working across African power markets.
+
+- [Solar & BESS financial modelling and model review](https://felixkeuya.com/services/solar-bess-financial-modelling.html?utm_source=github&utm_medium=referral&utm_campaign=garissa-solar-model)
+- [Renewable energy project finance analysis](https://felixkeuya.com/services/renewable-energy-project-finance-africa.html?utm_source=github&utm_medium=referral&utm_campaign=garissa-solar-model)
+- [Check project fit before sending a brief](https://felixkeuya.com/project-fit.html?utm_source=github&utm_medium=referral&utm_campaign=garissa-solar-model)
+
 ## Run it
 
 ```bash
