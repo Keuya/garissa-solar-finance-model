@@ -1,5 +1,7 @@
 # Garissa Solar — 10 MW Project Finance Model (Kenya)
 
+> **Need this model reviewed, rebuilt or adapted for a live project?** I provide solar and BESS project-finance model review, debt sizing, DSCR/CFADS analysis and investment decision support for African power projects. [See the service](https://felixkeuya.com/services/solar-bess-financial-modelling.html?utm_source=github&utm_medium=portfolio&utm_campaign=garissa_model) or [send a project brief](https://felixkeuya.com/contact.html?service=Model%20review&utm_source=github&utm_medium=portfolio&utm_campaign=garissa_model).
+
 **Need a live solar or BESS model built, reviewed or stress-tested?**  
 See Felix Keuya's renewable-energy model review service: https://felixkeuya.com/services/solar-bess-financial-modelling.html  
 Check the likely scope, fee band and turnaround first: https://felixkeuya.com/project-fit.html
